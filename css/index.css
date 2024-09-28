@@ -178,6 +178,14 @@ template {
 [hidden] {
   display: none
 }
+#color-card
+  width:32%
+  height: 180px
+
+@media screen and (max-width: 650px)
+ #color-card
+  width: 47%
+  height: 150px
 .limit-one-line,
 #article-container .flink .flink-item-name,
 #article-container .flink .flink-item-desc,
