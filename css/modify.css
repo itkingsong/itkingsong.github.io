@@ -72,3 +72,8 @@
   transition: unset */
 /* [data-theme='dark'] &
     color: var(--light-grey) */
+#page-header {
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+}
