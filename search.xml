@@ -4,13 +4,150 @@
   
     
     <entry>
-      <title>Hello World</title>
-      <link href="/posts/20241019104623-16107.html"/>
-      <url>/posts/20241019104623-16107.html</url>
+      <title>《不上班咖啡馆》</title>
+      <link href="/posts/20241030154654-41b6b3f1.html"/>
+      <url>/posts/20241030154654-41b6b3f1.html</url>
       
-        <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+        <content type="html"><![CDATA[<p>💡 根据 <a href="https://baike.baidu.com/item/%E9%81%97%E5%BF%98%E6%9B%B2%E7%BA%BF/7278665?fr=aladdin">遗忘曲线</a>：如果没有记录和回顾，6天后便会忘记75%的内容<br>读书笔记正是帮助你记录和回顾的工具，不必拘泥于形式，其核心是：<strong>记录</strong>、<strong>翻看</strong>、<strong>思考</strong></p><table><thead><tr><th>书名</th><th>不上班咖啡馆</th></tr></thead><tbody><tr><td>作者</td><td>古典</td></tr><tr><td>状态</td><td><span style="background-color: #ffcc33;">阅读中</span></td></tr><tr><td>简介</td><td>《不上班咖啡馆》是一本关于职场的小说，它就像是职场版的《解忧杂货铺》。书中写了四个青年人小明、木子、王鹏和天蓝的故事，主题分别是从职位、角色、专业和自由中醒来。小明是北漂的小镇青年，在生活的重压下，寻找自己的方向；木子是女设计师，陷入全职妈妈的无价值感中，希望重回职场；王鹏是面临被裁员的程序员，要拼命保住自己的家庭和前途；天蓝是厌倦职场的运营人，要探索一个人的自由职业之路。这四位青年人在遭遇职场迷茫时遇到了一家神奇的咖啡馆，在和胖子老板的一次次对话中，走出了迷茫与困顿。</td></tr></tbody></table><h1 id="读后感"><a href="#读后感" class="headerlink" title="读后感"></a>读后感</h1>]]></content>
       
       
+      <categories>
+          
+          <category> 读书笔记 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 读书笔记 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>《华为灰度管理法》</title>
+      <link href="/posts/20241030154654-64546cf0.html"/>
+      <url>/posts/20241030154654-64546cf0.html</url>
+      
+        <content type="html"><![CDATA[<p>💡 根据 <a href="https://baike.baidu.com/item/%E9%81%97%E5%BF%98%E6%9B%B2%E7%BA%BF/7278665?fr=aladdin">遗忘曲线</a>：如果没有记录和回顾，6天后便会忘记75%的内容<br>读书笔记正是帮助你记录和回顾的工具，不必拘泥于形式，其核心是：记录、翻看、思考</p><table><thead><tr><th>书名</th><th>华为灰度管理法</th></tr></thead><tbody><tr><td>作者</td><td>冉涛</td></tr><tr><td>状态</td><td><span style="background-color: #00cc99;">已读完，待总结</span></td></tr><tr><td>简介</td><td>灰度管理法以开放、宽容为核心，阐释企业在文化建设、选人用人、干部培养、组织建设、绩效分配等管理方面的尺度和原则。以灰度管理法选人用人，对事旗帜鲜明，对人宽容妥协；以灰度看华为的绩效分配，强调创新，而创新的首要来源就是调动员工积极性；以灰度看华为的干部培养，公司将下放部分权利给中层干部，同时弱化规则标准，宽容团队的奇思异想；以灰度看分享成果，华为各个部门的考核内容都不一样，但有两个指标是相同的，一个是人均效率，一个是客户满意度。灰度管理是任正非和华为的价值观、经营哲学、管理理念的精神实质。 是成就华为的基本法则。</td></tr></tbody></table><h1 id="读后感"><a href="#读后感" class="headerlink" title="读后感"></a>读后感</h1>]]></content>
+      
+      
+      <categories>
+          
+          <category> 读书笔记 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 读书笔记 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>《复利：全球顶尖投资者的31节认知与决策思维》</title>
+      <link href="/posts/20241030154654-aa24ba9d.html"/>
+      <url>/posts/20241030154654-aa24ba9d.html</url>
+      
+        <content type="html"><![CDATA[<p>💡 根据 <a href="https://baike.baidu.com/item/%E9%81%97%E5%BF%98%E6%9B%B2%E7%BA%BF/7278665?fr=aladdin">遗忘曲线</a>：如果没有记录和回顾，6天后便会忘记75%的内容<br>读书笔记正是帮助你记录和回顾的工具，不必拘泥于形式，其核心是：记录、翻看、思考</p><table><thead><tr><th>书名</th><th>复利：全球顶尖投资者的31节认知与决策思维</th></tr></thead><tbody><tr><td>作者</td><td>李松蔚</td></tr><tr><td>状态</td><td><span style="background-color: #cc3333;">待开始</span></td></tr><tr><td>简介</td><td>价值投资不仅仅是一种在股票市场上获得成功的系统。它也是一个智力工具，可以帮助我们更深入地了解世界。在本书中，价值投资者高塔姆·拜德从其广泛的阅读中构建了一套结合了实践方法、自我修养和商业智慧的全面价值投资哲学。</td></tr></tbody></table><p>拜德将投资和人生经验提炼成一本综合性的指南，融合了许多杰出人士的策略和智慧，他们的教导经受住了时间的考验。他借鉴了沃伦·巴菲特、查理·芒格和本杰明·格雷厄姆等投资大师以及其他学者的研究成果，巧妙地将他从许多大师那里学到的经验融汇在一起，并详细说明了它们在商业、投资和决策领域的实际应用。</p><p>作为对价值投资原则的颂扬，本书还讲述了拜德的个人经历，证明了他的信念：你能做的最好的投资就是投资自己。|</p><h1 id="读后感"><a href="#读后感" class="headerlink" title="读后感"></a>读后感</h1>]]></content>
+      
+      
+      <categories>
+          
+          <category> 读书笔记 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 读书笔记 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>《被讨厌的勇气》</title>
+      <link href="/posts/20241030154654-494d4d85.html"/>
+      <url>/posts/20241030154654-494d4d85.html</url>
+      
+        <content type="html"><![CDATA[<p>💡 根据 <a href="https://baike.baidu.com/item/%E9%81%97%E5%BF%98%E6%9B%B2%E7%BA%BF/7278665?fr=aladdin">遗忘曲线</a>：如果没有记录和回顾，6天后便会忘记75%的内容<br>读书笔记正是帮助你记录和回顾的工具，不必拘泥于形式，其核心是：记录、翻看、思考</p><table><thead><tr><th>书名</th><th>被讨厌的勇气</th></tr></thead><tbody><tr><td>作者</td><td>李松蔚</td></tr><tr><td>状态</td><td><span style="background-color: #cc3333;">待开始</span></td></tr><tr><td>简介</td><td>该书通过“对话篇”的形式，以希腊哲学的古典手法，围绕“人是如何能够获得幸福”这一问题展开了简单却深刻的讨论。“哲人”用简单易懂的方式向“青年”解释如何改善人际关系，如何获得幸福，又如何鼓起被讨厌的勇气去面对他人。</td></tr></tbody></table><h1 id="读后感"><a href="#读后感" class="headerlink" title="读后感"></a>读后感</h1>]]></content>
+      
+      
+      <categories>
+          
+          <category> 读书笔记 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 读书笔记 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>《长安的荔枝》</title>
+      <link href="/posts/20241030154654-a76fe2.html"/>
+      <url>/posts/20241030154654-a76fe2.html</url>
+      
+        <content type="html"><![CDATA[<p>💡 根据 <a href="https://baike.baidu.com/item/%E9%81%97%E5%BF%98%E6%9B%B2%E7%BA%BF/7278665?fr=aladdin">遗忘曲线</a>：如果没有记录和回顾，6天后便会忘记75%的内容<br>读书笔记正是帮助你记录和回顾的工具，不必拘泥于形式，其核心是：记录、翻看、思考</p><table><thead><tr><th>书名</th><th>长安的荔枝</th></tr></thead><tbody><tr><td>作者</td><td>马伯庸</td></tr><tr><td>状态</td><td><span style="background-color: #00cc99;">已读完，待总结</span></td></tr><tr><td>简介</td><td>小说讲述大唐天宝十四年，长安城的小吏李善德突然接到一个任务：要在贵妃诞日之前，从岭南运来新鲜荔枝。荔枝“一日色变，两日香变，三日味变”，而岭南距长安五千余里，山水迢迢，这是个不可能完成的任务。为了家人，李善德决心放手一搏：“就算失败，我也想知道，自己倒在距离终点多远的地方”‌</td></tr></tbody></table><h1 id="读后感"><a href="#读后感" class="headerlink" title="读后感"></a>读后感</h1>]]></content>
+      
+      
+      <categories>
+          
+          <category> 读书笔记 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 读书笔记 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>《5%的改变》</title>
+      <link href="/posts/20241030144629-ff9bee4f.html"/>
+      <url>/posts/20241030144629-ff9bee4f.html</url>
+      
+        <content type="html"><![CDATA[<!-- <span style="background-color: #6fff00;">已读完</span>   --><!-- <span style="background-color: #cc3333;">待开始</span>   --><!-- <span style="background-color: #ffcc33;">阅读中</span>   --><!-- <span style="background-color: #00cc99;">已读完，待总结</span>  --><p>💡 根据 <a href="https://baike.baidu.com/item/%E9%81%97%E5%BF%98%E6%9B%B2%E7%BA%BF/7278665?fr=aladdin">遗忘曲线</a>：如果没有记录和回顾，6天后便会忘记75%的内容<br>读书笔记正是帮助你记录和回顾的工具，不必拘泥于形式，其核心是：记录、翻看、思考</p><table><thead><tr><th>书名</th><th>5%的改变</th></tr></thead><tbody><tr><td>作者</td><td>李松蔚</td></tr><tr><td>状态</td><td><span style="background-color: #6fff00;">已读完</span></td></tr><tr><td>简介</td><td>你只想要100%的改变，所以你才被困住了；现在我们要做的，是先试试把5%做好。用一个极其微小而不同寻常的行动，去打破惯性和困局。”</td></tr></tbody></table><h1 id="读后感"><a href="#读后感" class="headerlink" title="读后感"></a>读后感</h1><h2 id="观点一-自我（对自我的失望、恐惧、不接纳）"><a href="#观点一-自我（对自我的失望、恐惧、不接纳）" class="headerlink" title="观点一:自我（对自我的失望、恐惧、不接纳）"></a>观点一:自我（对自我的失望、恐惧、不接纳）</h2><blockquote><p> 最基本的一条定理就是：甲之蜜糖、乙之砒霜。（找个适用于自己、的解决方法）</p><ul><li><p>试着接纳现在的自己，不要给自己太大压力，接受真实的自己。（就像打牌，先承认手里的牌就是这些，然后再谋划怎么打好。理想必须<strong>建立在现实</strong>的基础上，说一千道一万， 现实中这个人再不行，他也是唯一的行动的指望。）</p></li><li><p>从看清自己到欣赏自己，从欣赏自己到用好自己，从用好自己再到自我实现，每一段都是长期功课。在自我认识、自我成就这件事上，我们有一生的路要走。</p></li><li><p>当自身遇到低谷，别怕，就这样走下去，往往会发现最坏的结果并不是结局。继续坚持慢慢的改变，不就生活就会变好了一些。</p></li><li><p>不要先给失败找好理由，当自己做出选择 哪怕选择是一种“悲观的态度“，在后面的行动中也能表现出更大的动能性。认可自己的选择，即使失败也无怨无悔，从中吸取教训。</p></li><li><p>一直在奋斗，一直在失去，一直不甘心。（如果是这种情况，要不就是这放下。要不就坚持住、保持住、承受住这种痛苦。痛苦也是人存在的一种方式，他代表着是一个没有答案的课题，而这个课题是有价值的。 - - - - - 没有答案，那就去找，但问题没有错。不要放弃问题本身。）</p></li><li><p>自律为什么这么难？（我们可以每天坚持睡前给自己预留1分钟，心里和自己说”啊，今天也是一个自律的人“，建立一种”自律的符号“，从而扩大窗口，燃起做其他事情的积极性。）</p></li><li><p>自律一词意会（一分钟和一小块区域的自律其实也没想的那么容易。自律这个词本身就有点拧巴。它强调的是一种<strong>自我克制，自我违抗一明明不想做一件事，却要自己必须做</strong>，这才叫作自律。而且不是做一次两次，要重复， 日复一日，从这份坚持中获得某种意义一可是为什么要如此辛苦？如果找一件自己更喜欢的事，高高兴兴地做下来，不是更简单吗？）</p></li><li><p>如何解决遇到的各种困惑（尝试着每天记录一条困惑，连续记录一周。同时并尝试着进行解决，不要积压。慢慢的一点一点来进行解决）[生活中确实有一些具体的困惑， 却被结论掩盖了。具体的问题解决起来是很辛苦的，需要动脑筋，需要投入，需要耐性，而且也可能解决不掉。这时有一种防御机制，就是不再关心具体问题，只把焦点放到内心，不去考虑“怎么办”，而变成“我应当悟出怎样的人生哲学”。这确实更容易带来满足感，同时，具体困惑也还是没有解决。]  -  满足感替换解决不掉困惑。</p></li><li><p>产生焦虑该怎么办？（“焦虑时做一点折磨自己的事”，“只要别多想，把事情做了，就不会那么焦虑难受了嘛！”）多做一些有意义的事情来充实自己。</p></li><li><p>改变的工具箱</p></li><li><p><strong>向上螺旋：想不明白的事情，就付出行动去实践。</strong>（积极的行动会开启一条“行动让人的状态变好，状态变好又带来更多积极行动”的正反馈循环链路。与之相反的就是“向下螺旋”的恶性循环：因为心情不好，导致什么都不想做；因为什么都没做，导致心情更差。）</p></li><li><p><strong>外化的声音：想做的事，事到临头又觉得做不到；想放弃，又不甘心。怎样都不满意。</strong>（表达不同的观点同时，本身就带来了沟通和解决的空间）</p></li><li><p><strong>单双日作业：同时存在着两种不同的人生观，解决这种冲突最直白的办法就是两者同时实现。</strong>（与其花时间纠结“哪种人生观更好”，倒不如两种都要：一半时间充分努力，另一半时间充分躺平）</p></li><li><p><strong>黑色想象：焦虑的时候，反而可以多想一想“最坏的结果”。越具体，越实际，越有助于摆脱焦虑。</strong></p></li><li><p><strong>实验者心态：实验的目的是探寻真相，无论结果符不符合期待，它都会增进我们对事物的了解。</strong>（行动的意义在于自我探索，就无所谓“失败”。无论结果是什么，你对自己的认识都会增加，你会更清楚自己有哪些特点。有一些方法或许对别人管用， 而你有另外的偏好。</p><p>）</p></li></ul></blockquote><h2 id="观点二-家庭"><a href="#观点二-家庭" class="headerlink" title="观点二- 家庭"></a>观点二- 家庭</h2><p>待补充..</p><h2 id="观点三-工作与理想"><a href="#观点三-工作与理想" class="headerlink" title="观点三 - 工作与理想"></a>观点三 - 工作与理想</h2><blockquote><ul><li><p>如果对工作产生恐惧该如何做？（恐惧只是一种情绪，而工作表现更重要是取于行为。一个人带着恐惧这种情绪，照样可以采取行动。两者并不冲突。）做事甚至不必产生“实际”的结果，行动本身就会开启“向上螺旋”。最初的行动一旦被激活，身体自然会越来越有力量，做的事也越来越多。就像是在滚雪球，从最初的一小点开始，一圈圈越滚越大。关键在于启动。</p></li><li><p><strong>可用的时间充分利用好，效率最大化。</strong>若产生焦虑其余时间可以做自己想做的，在不焦虑的时候在回想其余时间做的事情是否有意义。相比下，更想做的是什么事？（改变很微弱，但我看到它了，我想让它变得更显著。 勇敢一点，再往前迈一步，一小步就好。）</p></li><li><p>越失败，越努力，越恐惧（克服恐惧搞定它。参考周边的人，他们的优势借鉴过来，只要心里知道，跟他们不同。最后提升自己特有的优势。）</p></li><li><p>在工作中不要恐惧权威，我们和领导的关系最重要的是双赢。在工作上我们可以多换位思考，我们在做好工作的同时也可以为团队创造价值，不单单把目光放在自己身上，而是有余力可以去关心团队成员。</p></li><li><p>做一份抵触的工作我们该怎么办？（总结十条好处，在这个抵触的工作中能得到什么好处。）</p></li><li><p>思考自己的价值的存在，只是用来逃避现实的方式。只要正视现实，一一数出自己不够好的地方。提高自己的专业技能，和其他同龄人竞争，让自己在未来十年可以达到自己认为的高度。朝向这个方向就好。</p></li><li><p>改变的工具箱</p><ul><li><p>去除评价</p><p><strong>先停下头脑里那些“我不好”的声音。摆脱消极的暗示。</strong>（越是沉浸在“我不好”的声音里，就越是破罐子破摔，也没有力气去改变什么。而最值得思考的问题是：“既然我是这样，那么这样的我又能找到哪些资源，去把事情做好呢？）</p></li><li><p>改写故事</p><p>任何处于困境中的人，都有某种程度的选择权：“问题”只是一种主观建构，是若干个故事版本之一。（<strong>同样的素材，编织成不同的故事线，就会带给人不同的行动方向，心态要好！</strong>）</p></li><li><p>人与角色分离</p><ul><li>人在不同环境下扮演不同的角色。**角色不是人的全部，即便工作占据了生活的很大比例，也不能将职场角色与一个人混同。（工作是我们在特定的时间和环境下扮演的角色，而人生还有更多的面向。这样想，也许还会让一些工作做得更好）</li></ul></li><li><p>短期的确定</p><ul><li>人需要长远的视角，也需要确定性。（生活也必须在切切实实的行动中才能转化为确定性）</li></ul></li><li><p>最小行动按钮</p><ul><li>把工作的第一步设计为一个简便、快速，又能对外界发出信号的动作。一方面阻力小，做起来没有难度。另一方面也是在向其他人宣告：“我开始啦。”这是利用人际反馈的原理按下一个启动的按钮。（<strong>先从小事开始行动</strong>）</li></ul></li></ul></li></ul></blockquote><h2 id="观点四-亲密关系"><a href="#观点四-亲密关系" class="headerlink" title="观点四 - 亲密关系"></a>观点四 - 亲密关系</h2><blockquote><ul><li>改变的工具箱<ul><li>沟通的勇气<ul><li>对大多数人而言，最重要的始终不是沟通的技巧，而是开口的勇气。</li></ul></li><li>新的沟通形式<ul><li>尝试改变沟通方式，比如面对面沟通不如送礼物写纸条来进行新的方式沟通。</li></ul></li></ul></li></ul></blockquote><h2 id="观点五-人际关系"><a href="#观点五-人际关系" class="headerlink" title="观点五 - 人际关系"></a>观点五 - 人际关系</h2><blockquote><ul><li>改变的工具箱<ul><li>允许<ul><li><strong>做出自我负责决定的前提是相信自己可以决定</strong>。（没有人站在对立面，做不做都是为了自己 - 认可自己，为自己所做出的决定负责）</li></ul></li><li>思维实验<ul><li><strong>多进行换位思考，无论多么肯定的事情多做一些假设条件</strong>。（假设做了，看看会带来哪些结果。说不定结论也会跟着改变）</li></ul></li></ul></li></ul></blockquote><h2 id="书摘"><a href="#书摘" class="headerlink" title="书摘"></a>书摘</h2><ul><li>保持对人的尊重。问题背后总有合理的一面：消沉的人也许是在用谨慎的策略回避失败；焦虑的人也许是背负了太多的期待不知拒绝；即便什么都不做的人，也可能是在用这种方式争取他的权益。</li><li>具体的问题解决起来是很辛苦的，需要动脑筋，需要投入，需要耐性，而且也可能解决不掉。这时有一种防御机制，就是不再关心具体问题，只把焦点放到内心，不去考虑“怎么办”，而变成“我应当悟出怎样的人生哲学”。这确实更容易带来满足感，同时，具体困惑也还是没有解决。</li><li>焦虑的时候，反而可以多想一想“最坏的结果”。越具体，越实际，越有助于摆脱焦虑。</li><li>如果行动的意义在于自我探索，就无所谓“失败”。无论结果是什么，你对自己的认识都会增加，你会更清楚自己有哪些特点。</li><li>这个干预最有趣的地方在于，做事甚至不必产生“实际”的结果，行动本身就会开启“向上螺旋”。最初的行动一旦被激活，身体自然会越来越有力量，做的事也越来越多。就像是在滚雪球，从最初的一小点开始，一圈圈越滚越大。关键在于启动。</li><li>最重要的，就是不要重复已经做过的思考。总在相同的思路中绕圈子，人就没法获得新鲜的想法，问题就仍然得不到答案。想办法引入一点新的信息，也就是说，要做一些之前从来没做过的事。</li></ul><p> 书籍地址：<a href="https://pan.baidu.com/s/1LKA8Ieyg86b17XAQob_UpQ?pwd=mx6a">5%的改变</a> </p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 读书笔记 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 读书笔记 </tag>
+            
+        </tags>
       
     </entry>
     
@@ -61,19 +198,6 @@
             <tag> TestEngineer </tag>
             
         </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>journey</title>
-      <link href="/posts/20240408214210-c816c6a2.html"/>
-      <url>/posts/20240408214210-c816c6a2.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-      
       
     </entry>
     
